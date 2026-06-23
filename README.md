@@ -4,7 +4,7 @@ I build browser automation and AI-workflow tools.
 
 ## 🚀 Featured project
 
-### [Nuii Auto Bulk](https://github.com/nuii2142-prog/autofly-extension)
+### [Nuii Auto Bulk](https://github.com/nuii2142-prog/nuii-firefly-bulk)
 A Chrome (Manifest V3) extension that bulk-automates **Adobe Firefly** image generation — queue prompts from text/CSV, run large batches unattended, and capture full-resolution results (true **2K** on Firefly Image 5) into a single ZIP. Runs locally, no tracking.
 
 `JavaScript` · `Chrome Extensions (MV3)` · `Service Workers` · `DOM & Network Automation`
